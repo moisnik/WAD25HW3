@@ -177,3 +177,16 @@ body {
 .logout:hover { 
   background: #f9fafb; 
 }
+
+.bottombar p{
+  font-size: 12px;
+}
+
+.bottombar {  
+  background: #ddd;
+  max-width: 40vw;
+  margin: 12px auto;
+  border-radius: 6px;
+  padding: 6px;
+  text-align: center;
+}
